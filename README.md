@@ -8,7 +8,7 @@
 <a href="https://stackoverflow.com/users/21118497" target="blank"><img src="https://badges.aleen42.com/src/stackoverflow.svg" /></a>
 <a href="https://meta.stackexchange.com/users/1320193" target="blank"><img src="https://badges.aleen42.com/src/stackexchange.svg" /></a>
 <a href="https://reddit.com/user/QuicklyLearning_" target="blank"><img src="https://badges.aleen42.com/src/reddit.svg"/></a>
-<a href="https://quicklylearning.me/feed.xml" target="blank"><img src="https://badges.aleen42.com/src/github.svg" /></a>
+<a href="https://github.com/QuicklyLearning" target="blank"><img src="https://badges.aleen42.com/src/github.svg" /></a>
 <a href="https://quicklylearning.me/feed.xml" target="blank"><img src="https://badges.aleen42.com/src/rss.svg"/></a>
                                                                   
                                                                   
