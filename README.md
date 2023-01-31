@@ -10,8 +10,7 @@
 <a href="/https://quicklylearning.me/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://quicklylearning.me/feed.xml" height="30" width="40" /></a>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=quicklylearning&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=quicklylearning&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=quicklylearning&theme=radical&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=quicklylearning&theme=radical&hide_border=false)
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
