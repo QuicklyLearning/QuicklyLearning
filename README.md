@@ -5,10 +5,13 @@
 
 ## 🌐 Socials
 
-<a href="https://stackoverflow.com/users/21118497" target="blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" /></a>
-<a href="https://reddit.com/user/QuicklyLearning_" target="blank"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white"/></a>
-<a href="/https://quicklylearning.me/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://quicklylearning.me/feed.xml" height="30" width="40" /></a>
-
+<a href="https://stackoverflow.com/users/21118497" target="blank"><img src="https://badges.aleen42.com/src/stackoverflow.svg" /></a>
+<a href="https://meta.stackexchange.com/users/1320193" target="blank"><img src="https://badges.aleen42.com/src/stackexchange.svg" /></a>
+<a href="https://reddit.com/user/QuicklyLearning_" target="blank"><img src="https://badges.aleen42.com/src/reddit.svg"/></a>
+<a href="https://quicklylearning.me/feed.xml" target="blank"><img src="https://badges.aleen42.com/src/github.svg" /></a>
+<a href="https://quicklylearning.me/feed.xml" target="blank"><img src="https://badges.aleen42.com/src/rss.svg"/></a>
+                                                                  
+                                                                  
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=quicklylearning&theme=radical&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=quicklylearning&theme=radical&hide_border=false)
 
