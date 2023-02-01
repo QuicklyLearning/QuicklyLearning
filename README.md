@@ -1,7 +1,6 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif">
 
 ### My name is Giuseppe, this is my GitHub profile, thanks for stopping by! 
-<a href="https://quicklylearning.me/">➡️ Check out my website</a>
 
 ## 🌐 Socials
 
@@ -9,7 +8,7 @@
 <a href="https://meta.stackexchange.com/users/1320193" target="blank"><img src="https://badges.aleen42.com/src/stackexchange.svg" /></a>
 <a href="https://reddit.com/user/QuicklyLearning_" target="blank"><img src="https://badges.aleen42.com/src/reddit.svg"/></a>
 <a href="https://github.com/QuicklyLearning" target="blank"><img src="https://badges.aleen42.com/src/github.svg" /></a>
-<a href="https://quicklylearning.me/feed.xml" target="blank"><img src="https://badges.aleen42.com/src/rss.svg"/></a>
+<a href="https://liberato-giuseppe-fusco.medium.com/" target="blank"><img src="https://badges.aleen42.com/src/medium.svg" /></a>
                                                                   
                                                                   
 ## 📊 GitHub Stats:
