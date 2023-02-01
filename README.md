@@ -33,11 +33,12 @@
   <br>
   The table below lists all the certificates I have earned so far.
   
-| Certifications | Badge |
+| Certifications | Badge (+ Credly Link) |
 |--|--| 
 | Microsoft Certified: Azure Fundamentals | <a href="https://www.credly.com/badges/f83439db-c330-4957-96ef-e43e66275e08/public_url"><img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="23%"></a> |
 | Microsoft Certified: Security, Compliance, and Identity Fundamentals | <a href="https://www.credly.com/badges/62458b3c-7633-4c37-9519-886630dc22c9/public_url"><img src="https://images.credly.com/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="23%"></a> |
 | Microsoft 365 Certified: Fundamentals | <a href="https://www.credly.com/badges/ea9f638d-924e-4fb0-afad-1acab67efc09/public_url"><img src="https://images.credly.com/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png" width="23%"></a> |
+| Microsoft Certified: Power Platform Fundamentals | <a href="https://www.credly.com/badges/34cccc32-839c-4df7-930d-af33682e8c58/public_url"><img src="https://images.credly.com/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" width="23%"></a> | 
 
 </details> 
 
